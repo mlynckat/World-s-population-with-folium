@@ -1,0 +1,1273 @@
+{
+    "5a20cc6df4ac44349d0d864ef8ee3d2d": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "height": "80px",
+            "width": "70%"
+        },
+        "views": []
+    },
+    "5337d4bc0b244ce4861c5f0f940e13be": {
+        "model_name": "SelectionSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_options_labels": [
+                "1962",
+                "1963",
+                "1964",
+                "1965",
+                "1966",
+                "1967",
+                "1968",
+                "1969",
+                "1970",
+                "1971",
+                "1972",
+                "1973",
+                "1974",
+                "1975",
+                "1976",
+                "1977",
+                "1978",
+                "1979",
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2003",
+                "2004",
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ],
+            "continuous_update": false,
+            "description": "Which year should be graphed?",
+            "layout": "IPY_MODEL_5a20cc6df4ac44349d0d864ef8ee3d2d",
+            "value": "2010"
+        },
+        "views": []
+    },
+    "6653647d1fe74d19bb19e78ef16f6c87": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {},
+        "views": []
+    },
+    "f4b56288d9b148659b730b5a895b1411": {
+        "model_name": "BoxModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "children": [
+                "IPY_MODEL_5337d4bc0b244ce4861c5f0f940e13be"
+            ],
+            "layout": "IPY_MODEL_6653647d1fe74d19bb19e78ef16f6c87"
+        },
+        "views": []
+    },
+    "5c2c674d20df467b9b4c947f71059e83": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "height": "80px",
+            "width": "70%"
+        },
+        "views": []
+    },
+    "a9237700ac744269873a8c882f2bf69a": {
+        "model_name": "SelectionSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_options_labels": [
+                "1962",
+                "1963",
+                "1964",
+                "1965",
+                "1966",
+                "1967",
+                "1968",
+                "1969",
+                "1970",
+                "1971",
+                "1972",
+                "1973",
+                "1974",
+                "1975",
+                "1976",
+                "1977",
+                "1978",
+                "1979",
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2003",
+                "2004",
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ],
+            "continuous_update": false,
+            "description": "Which year should be graphed?",
+            "layout": "IPY_MODEL_5c2c674d20df467b9b4c947f71059e83",
+            "value": "1987"
+        },
+        "views": []
+    },
+    "6896fc97a2db43908e20fc3c050e3bd0": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {},
+        "views": []
+    },
+    "7a2943fba8cc42dfb152d73447254b0e": {
+        "model_name": "BoxModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "children": [
+                "IPY_MODEL_a9237700ac744269873a8c882f2bf69a"
+            ],
+            "layout": "IPY_MODEL_6896fc97a2db43908e20fc3c050e3bd0"
+        },
+        "views": []
+    },
+    "ca7adf3551dc4f22ab13cc85d295af9a": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "height": "80px",
+            "width": "70%"
+        },
+        "views": []
+    },
+    "7d969743492a431795dc364c65fc6b29": {
+        "model_name": "SelectionSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_options_labels": [
+                "1960",
+                "1961",
+                "1962",
+                "1963",
+                "1964",
+                "1965",
+                "1966",
+                "1967",
+                "1968",
+                "1969",
+                "1970",
+                "1971",
+                "1972",
+                "1973",
+                "1974",
+                "1975",
+                "1976",
+                "1977",
+                "1978",
+                "1979",
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2003",
+                "2004",
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ],
+            "continuous_update": false,
+            "description": "Which year should be graphed?",
+            "layout": "IPY_MODEL_ca7adf3551dc4f22ab13cc85d295af9a",
+            "value": "2016"
+        },
+        "views": []
+    },
+    "ab41d7bb3a1948dfa535485142f9289e": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {},
+        "views": []
+    },
+    "efa013b35cc041da9b977498fdbfaf1d": {
+        "model_name": "BoxModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "children": [
+                "IPY_MODEL_7d969743492a431795dc364c65fc6b29"
+            ],
+            "layout": "IPY_MODEL_ab41d7bb3a1948dfa535485142f9289e"
+        },
+        "views": []
+    },
+    "fb322fd28435462f9f5fb3f5b1df40df": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "height": "80px",
+            "width": "70%"
+        },
+        "views": []
+    },
+    "25fd469beead48af8890160f31ed1bc5": {
+        "model_name": "SelectionSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_options_labels": [
+                "1960",
+                "1961",
+                "1962",
+                "1963",
+                "1964",
+                "1965",
+                "1966",
+                "1967",
+                "1968",
+                "1969",
+                "1970",
+                "1971",
+                "1972",
+                "1973",
+                "1974",
+                "1975",
+                "1976",
+                "1977",
+                "1978",
+                "1979",
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2003",
+                "2004",
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ],
+            "continuous_update": false,
+            "description": "Which year should be graphed?",
+            "layout": "IPY_MODEL_fb322fd28435462f9f5fb3f5b1df40df",
+            "value": "2010"
+        },
+        "views": []
+    },
+    "452e704c367b49caa90a30671a37d270": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {},
+        "views": []
+    },
+    "6209ea95a3b14ba68b8a715f91389fe1": {
+        "model_name": "BoxModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "children": [
+                "IPY_MODEL_25fd469beead48af8890160f31ed1bc5"
+            ],
+            "layout": "IPY_MODEL_452e704c367b49caa90a30671a37d270"
+        },
+        "views": []
+    },
+    "8ac72ed65d5641f2aeb30ee56c2195af": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "height": "80px",
+            "width": "70%"
+        },
+        "views": []
+    },
+    "543fd9caf2f04f618b94000f309a552a": {
+        "model_name": "SelectionSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_options_labels": [
+                "1960",
+                "1961",
+                "1962",
+                "1963",
+                "1964",
+                "1965",
+                "1966",
+                "1967",
+                "1968",
+                "1969",
+                "1970",
+                "1971",
+                "1972",
+                "1973",
+                "1974",
+                "1975",
+                "1976",
+                "1977",
+                "1978",
+                "1979",
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2003",
+                "2004",
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ],
+            "continuous_update": false,
+            "description": "Which year should be graphed?",
+            "layout": "IPY_MODEL_8ac72ed65d5641f2aeb30ee56c2195af",
+            "value": "2010"
+        },
+        "views": []
+    },
+    "aab1cdce4845478f864ce3aa4f494cdb": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {},
+        "views": []
+    },
+    "5b38d1e3f1ef4fc7a1fa4833826ac9c4": {
+        "model_name": "BoxModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "children": [
+                "IPY_MODEL_543fd9caf2f04f618b94000f309a552a"
+            ],
+            "layout": "IPY_MODEL_aab1cdce4845478f864ce3aa4f494cdb"
+        },
+        "views": []
+    },
+    "a7ba67a056d74eb2aba95e761e6f19df": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "height": "80px",
+            "width": "70%"
+        },
+        "views": []
+    },
+    "9ef15e97a1844ef589616399e558203b": {
+        "model_name": "SelectionSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_options_labels": [
+                "1960",
+                "1961",
+                "1962",
+                "1963",
+                "1964",
+                "1965",
+                "1966",
+                "1967",
+                "1968",
+                "1969",
+                "1970",
+                "1971",
+                "1972",
+                "1973",
+                "1974",
+                "1975",
+                "1976",
+                "1977",
+                "1978",
+                "1979",
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2003",
+                "2004",
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ],
+            "continuous_update": false,
+            "description": "Which year should be graphed?",
+            "layout": "IPY_MODEL_a7ba67a056d74eb2aba95e761e6f19df",
+            "value": "2010"
+        },
+        "views": []
+    },
+    "80608ee43e9c45f39f3c9b6d50813160": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {},
+        "views": []
+    },
+    "ee74cb8430974946a16629c9b6cf78cf": {
+        "model_name": "BoxModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "children": [
+                "IPY_MODEL_9ef15e97a1844ef589616399e558203b"
+            ],
+            "layout": "IPY_MODEL_80608ee43e9c45f39f3c9b6d50813160"
+        },
+        "views": []
+    },
+    "524ffdc09d664ff39edce896b12f710d": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "height": "80px",
+            "width": "70%"
+        },
+        "views": []
+    },
+    "b54e8e08216444a788b4f8839157ac70": {
+        "model_name": "SelectionSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_options_labels": [
+                "1960",
+                "1961",
+                "1962",
+                "1963",
+                "1964",
+                "1965",
+                "1966",
+                "1967",
+                "1968",
+                "1969",
+                "1970",
+                "1971",
+                "1972",
+                "1973",
+                "1974",
+                "1975",
+                "1976",
+                "1977",
+                "1978",
+                "1979",
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2003",
+                "2004",
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ],
+            "continuous_update": false,
+            "description": "Which year should be graphed?",
+            "layout": "IPY_MODEL_524ffdc09d664ff39edce896b12f710d",
+            "value": "2010"
+        },
+        "views": []
+    },
+    "8fae7721dceb4480af48ba51b1626ea7": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {},
+        "views": []
+    },
+    "86481a0acb5e429aac4778683efe07ad": {
+        "model_name": "BoxModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "children": [
+                "IPY_MODEL_b54e8e08216444a788b4f8839157ac70"
+            ],
+            "layout": "IPY_MODEL_8fae7721dceb4480af48ba51b1626ea7"
+        },
+        "views": [
+            {
+                "cell_index": 14
+            }
+        ]
+    },
+    "716a3d1d808e46ceba88ef136eaf99ce": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "height": "80px",
+            "width": "70%"
+        },
+        "views": []
+    },
+    "7eddc06a6be04160840c04d246412e06": {
+        "model_name": "SelectionSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_options_labels": [
+                "1960",
+                "1961",
+                "1962",
+                "1963",
+                "1964",
+                "1965",
+                "1966",
+                "1967",
+                "1968",
+                "1969",
+                "1970",
+                "1971",
+                "1972",
+                "1973",
+                "1974",
+                "1975",
+                "1976",
+                "1977",
+                "1978",
+                "1979",
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2003",
+                "2004",
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ],
+            "continuous_update": false,
+            "description": "Which year should be graphed?",
+            "layout": "IPY_MODEL_716a3d1d808e46ceba88ef136eaf99ce",
+            "value": "1989"
+        },
+        "views": []
+    },
+    "e461eacd093d45dabd45bfe1eeff9b93": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {},
+        "views": []
+    },
+    "3aaa253d1b314b5bacfc24998091ddc4": {
+        "model_name": "BoxModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "children": [
+                "IPY_MODEL_7eddc06a6be04160840c04d246412e06"
+            ],
+            "layout": "IPY_MODEL_e461eacd093d45dabd45bfe1eeff9b93"
+        },
+        "views": []
+    },
+    "996c2e66c68a4388be471ef8ad56ed14": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "height": "80px",
+            "width": "70%"
+        },
+        "views": []
+    },
+    "6ec971b8f76346c1a1c3b741ba8fa0ce": {
+        "model_name": "SelectionSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_options_labels": [
+                "1960",
+                "1961",
+                "1962",
+                "1963",
+                "1964",
+                "1965",
+                "1966",
+                "1967",
+                "1968",
+                "1969",
+                "1970",
+                "1971",
+                "1972",
+                "1973",
+                "1974",
+                "1975",
+                "1976",
+                "1977",
+                "1978",
+                "1979",
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2003",
+                "2004",
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ],
+            "continuous_update": false,
+            "description": "Which year should be graphed?",
+            "layout": "IPY_MODEL_996c2e66c68a4388be471ef8ad56ed14",
+            "value": "1986"
+        },
+        "views": []
+    },
+    "a11dc4e1b7484dfc9cd8b4167fc39867": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {},
+        "views": []
+    },
+    "70897165610547e3960c7db6d47c4bb5": {
+        "model_name": "BoxModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "children": [
+                "IPY_MODEL_6ec971b8f76346c1a1c3b741ba8fa0ce"
+            ],
+            "layout": "IPY_MODEL_a11dc4e1b7484dfc9cd8b4167fc39867"
+        },
+        "views": []
+    },
+    "25c8a325069b475db8da01ad30b56a90": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "height": "80px",
+            "width": "70%"
+        },
+        "views": []
+    },
+    "d908f468167e41af81ebcf9bfef0eef5": {
+        "model_name": "SelectionSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_options_labels": [
+                "1960",
+                "1961",
+                "1962",
+                "1963",
+                "1964",
+                "1965",
+                "1966",
+                "1967",
+                "1968",
+                "1969",
+                "1970",
+                "1971",
+                "1972",
+                "1973",
+                "1974",
+                "1975",
+                "1976",
+                "1977",
+                "1978",
+                "1979",
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2003",
+                "2004",
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ],
+            "continuous_update": false,
+            "description": "Which year should be graphed?",
+            "layout": "IPY_MODEL_25c8a325069b475db8da01ad30b56a90",
+            "value": "2010"
+        },
+        "views": []
+    },
+    "d352d8c5915b4bb1b2a032bbe63e5afc": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {},
+        "views": []
+    },
+    "855024d6be024070b374777d5f04ca4e": {
+        "model_name": "BoxModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "children": [
+                "IPY_MODEL_d908f468167e41af81ebcf9bfef0eef5"
+            ],
+            "layout": "IPY_MODEL_d352d8c5915b4bb1b2a032bbe63e5afc"
+        },
+        "views": []
+    },
+    "f7caf6e2635b421599eea9848e6c1ba5": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "height": "80px",
+            "width": "70%"
+        },
+        "views": []
+    },
+    "c4136749f78a480abf23bd3dcfce2fde": {
+        "model_name": "SelectionSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_options_labels": [
+                "1960",
+                "1961",
+                "1962",
+                "1963",
+                "1964",
+                "1965",
+                "1966",
+                "1967",
+                "1968",
+                "1969",
+                "1970",
+                "1971",
+                "1972",
+                "1973",
+                "1974",
+                "1975",
+                "1976",
+                "1977",
+                "1978",
+                "1979",
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2003",
+                "2004",
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ],
+            "continuous_update": false,
+            "description": "Which year should be graphed?",
+            "layout": "IPY_MODEL_f7caf6e2635b421599eea9848e6c1ba5",
+            "value": "2010"
+        },
+        "views": []
+    },
+    "59fc75853f7f438db3d18f8066bf68cc": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {},
+        "views": []
+    },
+    "1963e82e473d4be6917c1e4971622291": {
+        "model_name": "BoxModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "children": [
+                "IPY_MODEL_c4136749f78a480abf23bd3dcfce2fde"
+            ],
+            "layout": "IPY_MODEL_59fc75853f7f438db3d18f8066bf68cc"
+        },
+        "views": []
+    },
+    "edc35509cd6f43f88d943aedc5424a33": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "height": "80px",
+            "width": "70%"
+        },
+        "views": []
+    },
+    "e1b41b7339e149908de83884e6854ef6": {
+        "model_name": "SelectionSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_options_labels": [
+                "1960",
+                "1961",
+                "1962",
+                "1963",
+                "1964",
+                "1965",
+                "1966",
+                "1967",
+                "1968",
+                "1969",
+                "1970",
+                "1971",
+                "1972",
+                "1973",
+                "1974",
+                "1975",
+                "1976",
+                "1977",
+                "1978",
+                "1979",
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2003",
+                "2004",
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ],
+            "continuous_update": false,
+            "description": "Which year should be graphed?",
+            "layout": "IPY_MODEL_edc35509cd6f43f88d943aedc5424a33",
+            "value": "2010"
+        },
+        "views": []
+    },
+    "b23b061e25154cd58e96c6bd5784babf": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "height": "80px",
+            "width": "70%"
+        },
+        "views": []
+    },
+    "0b0d580b11b54134b017790cccc26c00": {
+        "model_name": "SelectionSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_options_labels": [
+                "1960",
+                "1961",
+                "1962",
+                "1963",
+                "1964",
+                "1965",
+                "1966",
+                "1967",
+                "1968",
+                "1969",
+                "1970",
+                "1971",
+                "1972",
+                "1973",
+                "1974",
+                "1975",
+                "1976",
+                "1977",
+                "1978",
+                "1979",
+                "1980",
+                "1981",
+                "1982",
+                "1983",
+                "1984",
+                "1985",
+                "1986",
+                "1987",
+                "1988",
+                "1989",
+                "1990",
+                "1991",
+                "1992",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "1999",
+                "2000",
+                "2001",
+                "2002",
+                "2003",
+                "2004",
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016"
+            ],
+            "continuous_update": false,
+            "description": "Which year should be graphed?",
+            "layout": "IPY_MODEL_b23b061e25154cd58e96c6bd5784babf",
+            "value": "2010"
+        },
+        "views": []
+    },
+    "a5f6d10f4f584f5d91cb787c0affc899": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {},
+        "views": []
+    },
+    "84a27e320bf84216b730ef9794d74b2e": {
+        "model_name": "BoxModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "children": [
+                "IPY_MODEL_0b0d580b11b54134b017790cccc26c00"
+            ],
+            "layout": "IPY_MODEL_a5f6d10f4f584f5d91cb787c0affc899"
+        },
+        "views": [
+            {
+                "cell_index": 14
+            }
+        ]
+    }
+}
